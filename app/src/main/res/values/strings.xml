@@ -15,4 +15,6 @@
     <string name="housing_text">Housing : Individual birds need more room for normal behavior and adequate exercise than the 22 birds/m2 density currently used in commercial laying cages.</string>
     <string name="health_text_label">Health: Disease diagnosis</string>
     <string name="health_text">Health Symptoms: Bone and leg deformation and feather loss. The birds walk with difficulty; they limp. Some deficiencies may cause feather loss. Treatment, if detected in time: Supplementary vitamins and calcium, fresh grass, and cow dung. Nutritional diseases may be avoided when the birds have access to normal vegetation and are therefore rare in scavenging chickens.</string>
+    <string name="chicken_image">chicken image</string>
+    <string name="fab_label">Add Chicken to cart</string>
 </resources>
