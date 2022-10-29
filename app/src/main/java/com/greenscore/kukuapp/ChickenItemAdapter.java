@@ -10,7 +10,6 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 public class ChickenItemAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
-//    private String[] dataSet;
 
     public static class ViewHolder extends RecyclerView.ViewHolder {
         private final LinearLayout chickenItemLayout;

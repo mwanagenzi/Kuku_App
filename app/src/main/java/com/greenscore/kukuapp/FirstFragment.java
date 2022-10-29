@@ -28,7 +28,12 @@ public class FirstFragment extends Fragment {
 
     public void onViewCreated(@NonNull View view, Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
-
+        binding.traderButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                NavHostFragment.findNavController(FirstFragment.this).navigate(R.id.action_FirstFragment_to_web_view_fragment);
+            }
+        });
 
 
         binding.farmerButton.setOnClickListener(new View.OnClickListener() {

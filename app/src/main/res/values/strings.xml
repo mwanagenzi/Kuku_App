@@ -2,8 +2,8 @@
     <string name="app_name">Kuku App</string>
     <string name="action_settings">Settings</string>
     <!-- Strings used for fragments for navigation -->
-    <string name="first_fragment_label">First Fragment</string>
-    <string name="second_fragment_label">Second Fragment</string>
+    <string name="first_fragment_label">Home</string>
+    <string name="second_fragment_label">Farmer\'s Corner</string>
     <string name="next">Next</string>
     <string name="previous">Previous</string>
 
@@ -17,4 +17,7 @@
     <string name="health_text">Health Symptoms: Bone and leg deformation and feather loss. The birds walk with difficulty; they limp. Some deficiencies may cause feather loss. Treatment, if detected in time: Supplementary vitamins and calcium, fresh grass, and cow dung. Nutritional diseases may be avoided when the birds have access to normal vegetation and are therefore rare in scavenging chickens.</string>
     <string name="chicken_image">chicken image</string>
     <string name="fab_label">Add Chicken to cart</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="web_view_fragment_label">Traders\' Joint</string>
 </resources>

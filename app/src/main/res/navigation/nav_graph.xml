@@ -14,6 +14,9 @@
         <action
             android:id="@+id/action_FirstFragment_to_SecondFragment"
             app:destination="@id/SecondFragment" />
+        <action
+            android:id="@+id/action_FirstFragment_to_web_view_fragment"
+            app:destination="@id/web_view_fragment" />
     </fragment>
     <fragment
         android:id="@+id/SecondFragment"
@@ -23,6 +26,16 @@
 
         <action
             android:id="@+id/action_SecondFragment_to_FirstFragment"
+            app:destination="@id/FirstFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/web_view_fragment"
+        android:name="com.greenscore.kukuapp.WebViewFragment"
+        android:label="@string/web_view_fragment_label"
+        tools:layout="@layout/fragment_web_view">
+
+        <action
+            android:id="@+id/action_web_view_fragment_to_FirstFragment"
             app:destination="@id/FirstFragment" />
     </fragment>
 </navigation>
