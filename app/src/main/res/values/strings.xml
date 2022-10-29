@@ -9,4 +9,10 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="breed_name">Exotic Dual Purpose (Original Kienyeji)</string>
+    <string name="feeding_instruction">They are cheap to raise since thy are natural scavengers</string>
+    <string name="housing_label">Housing:</string>
+    <string name="housing_text">Housing : Individual birds need more room for normal behavior and adequate exercise than the 22 birds/m2 density currently used in commercial laying cages.</string>
+    <string name="health_text_label">Health: Disease diagnosis</string>
+    <string name="health_text">Health Symptoms: Bone and leg deformation and feather loss. The birds walk with difficulty; they limp. Some deficiencies may cause feather loss. Treatment, if detected in time: Supplementary vitamins and calcium, fresh grass, and cow dung. Nutritional diseases may be avoided when the birds have access to normal vegetation and are therefore rare in scavenging chickens.</string>
 </resources>
